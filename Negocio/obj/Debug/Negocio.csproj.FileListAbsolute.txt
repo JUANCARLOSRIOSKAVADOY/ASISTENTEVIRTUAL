@@ -1,0 +1,44 @@
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\bin\Debug\Negocio.dll
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\bin\Debug\Datos.dll
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\bin\Debug\Entidades.dll
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\bin\Debug\Utilitarios.dll
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\bin\Debug\Datos.pdb
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\bin\Debug\Entidades.pdb
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\bin\Debug\Utilitarios.pdb
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\obj\Debug\Negocio.dll
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Negocio.dll
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Datos.dll
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Entidades.dll
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Utilitarios.dll
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Datos.pdb
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Entidades.pdb
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Utilitarios.pdb
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\obj\Debug\Negocio.dll
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Negocio.dll
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Datos.dll
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Entidades.dll
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Utilitarios.dll
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Datos.pdb
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Entidades.pdb
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Utilitarios.pdb
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\obj\Debug\Negocio.dll
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Negocio.dll
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Datos.dll
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Entidades.dll
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Utilitarios.dll
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Datos.pdb
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Entidades.pdb
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\bin\Debug\Utilitarios.pdb
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\obj\Debug\Negocio.dll
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Negocio\obj\Debug\Negocio.pdb

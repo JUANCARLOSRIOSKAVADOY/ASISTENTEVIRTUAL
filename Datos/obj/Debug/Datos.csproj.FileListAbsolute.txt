@@ -1,0 +1,36 @@
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Datos\bin\Debug\Datos.dll
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Datos\bin\Debug\Datos.pdb
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Datos\bin\Debug\Entidades.dll
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Datos\bin\Debug\Utilitarios.dll
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Datos\bin\Debug\Entidades.pdb
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Datos\obj\Debug\Datos.dll
+C:\Users\JONATHAN\Desktop\SISCLASEVIRTUAL\Datos\obj\Debug\Datos.pdb
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Datos.dll
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Datos.pdb
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Entidades.dll
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Utilitarios.dll
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Entidades.pdb
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Datos\obj\Debug\Datos.dll
+C:\Users\JONATHAN\Desktop\ASISTENTE VIRTUAL\Datos\obj\Debug\Datos.pdb
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Datos.dll
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Datos.pdb
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Entidades.dll
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Utilitarios.dll
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Entidades.pdb
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Datos\obj\Debug\Datos.dll
+C:\Users\JOSELYN\Desktop\ASISTENTE VIRTUAL\Datos\obj\Debug\Datos.pdb
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Datos.dll
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Datos.pdb
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Entidades.dll
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Utilitarios.dll
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Entidades.pdb
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Datos\obj\Debug\Datos.dll
+C:\Users\JCRK\Desktop\ASISTENTE VIRTUAL\Datos\obj\Debug\Datos.pdb
